@@ -11,7 +11,10 @@ Estamos documentando los primeros pasos en el control de versiones
 * **Git-Hub**
 * **Markdow**
 ### Como usar el repositorio:
+###
 Url
 
 ### Autor
 Diego Almeida
+### Status
+Finalizado en la version 1.0
